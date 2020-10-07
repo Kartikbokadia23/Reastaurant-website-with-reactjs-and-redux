@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### In this project i have used redux and json lite server for dbms and assets.
+
 ## Available Scripts
 
 In the project directory, you can run:
